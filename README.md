@@ -23,7 +23,7 @@
 - https://www.tiktok.com/@j0kermodz_real
 -------------
 
-# Donate (Not Needed)
+# Donate
 -------------
 - https://www.j0kermodz.lol/Donate
 - This Helps Me Keep Going (This Is Not Needed For My Mods Or Source Code)
