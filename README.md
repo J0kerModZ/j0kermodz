@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hello I'm J0kerModZ
 
-<!--
-**J0kerModZ/j0kermodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# What I Do?
+-------------
+- Make Mods
+- Content Creation
+- Game Dev
+-------------
 
-Here are some ideas to get you started:
+# Coding Languages 
+-------------
+- C#
+- Python
+- Java (Not Much)
+- HTML
+-------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Support Me
+-------------
+- https://www.j0kermodz.lol
+- https://discord.gg/Kdwqg2VUHc
+- https://www.youtube.com/@J0kerModZ?sub_confirmation=1
+- https://www.tiktok.com/@j0kermodz_real
+-------------
+
+# Donate (Not Needed)
+-------------
+- https://www.j0kermodz.lol/Donate
+- This Helps Me Keep Going (This Is Not Needed For My Mods Or Source Code)
+-------------
