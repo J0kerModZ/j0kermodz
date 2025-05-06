@@ -13,8 +13,7 @@
 - Java (Not Much)
 - HTML
 
-
-# Support Me
+# More By Me
 
 - https://linktr.ee/j0kermodz
 
