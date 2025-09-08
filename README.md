@@ -15,5 +15,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linktr.ee/j0kermodz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://linktr.ee/j0kermodz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/b/bf/Linktree_logo.svg" alt="" height="30" width="40" /></a>
 </p>
