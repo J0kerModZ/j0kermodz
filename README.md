@@ -15,5 +15,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linktr.ee/j0kermodz" target="blank"><img align="center" src="https://images.seeklogo.com/logo-png/37/1/linktree-logo-png_seeklogo-377235.png" alt="" height="100" width="200" /></a>
+<a href="https://linktr.ee/j0kermodz" target="blank"><img align="center" src="https://www.diane-spencer.com/wp-content/uploads/2024/07/LinkTree-icon-black.png" alt="" height="100" width="200" /></a>
 </p>
