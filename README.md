@@ -13,8 +13,6 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rj0kermodz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 # More By Me
 <button>
     <a href="https://linktr.ee/j0kermodz"> LinkTree </a>
