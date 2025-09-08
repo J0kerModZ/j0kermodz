@@ -1,18 +1,4 @@
-## Hello I'm J0kerModZ
-
-# What I Do?
-
-- Make Mods
-- Content Creation
-- Game Dev
-
-# Coding Languages 
-
-- C#
-- Python
-- Java (Not Much)
-- HTML
-
+[![J0kers's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0kermodz)](https://github.com/anuraghazra/github-readme-stats)
 # More By Me
 - [Link Tree](https://linktr.ee/j0kermodz)
 
