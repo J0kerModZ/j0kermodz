@@ -15,5 +15,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linktr.ee/j0kermodz" target="blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2022/04/Linktree-Logo.png" alt="" height="30" width="40" /></a>
+<a href="https://linktr.ee/j0kermodz" target="blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2022/04/Linktree-Logo.png" alt="" height="300" width="400" /></a>
 </p>
