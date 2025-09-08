@@ -16,4 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linktr.ee/j0kermodz" target="blank"><img align="center" src="https://www.diane-spencer.com/wp-content/uploads/2024/07/LinkTree-icon-black.png" alt="" height="100" width="200" /></a>
+<a href="https://www.youtube.com/@J0kerModZ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="" height="100" width="200" /></a>
+
 </p>
