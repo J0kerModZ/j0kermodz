@@ -10,6 +10,9 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0kermodz&layout=compact&theme=radical&cache_seconds=1800&v6" alt="J0ker's most used languages" width="400"/>
     </td>
+    <td>
+      [![trophy](https://github-profile-trophy.vercel.app/?username=j0kermodz)](https://github.com/ryo-ma/github-profile-trophy)
+    </td>
   </tr>
 </table>
 
