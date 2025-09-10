@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">FIND MORE:</h1>
 <p align="center">
 <a href="https://linktr.ee/j0kermodz" target="blank"><img align="center" src="http://picsvg.com/svg/fUShKO.jpg" alt="" height="400" width="200" /></a>
 <a href="https://www.youtube.com/@J0kerModZ" target="blank"><img align="center" src="https://picsvg.com/svg/y7U9Yp.jpg" alt="" height="400" width="200" /></a>
