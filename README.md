@@ -15,7 +15,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linktr.ee/j0kermodz" target="blank"><img align="center" src="http://picsvg.com/svg/fUShKO.jpg" alt="" height="400" width="100" /></a>
-<a href="https://www.youtube.com/@J0kerModZ" target="blank"><img align="center" src="https://picsvg.com/svg/y7U9Yp.jpg" alt="" height="400" width="100" /></a>
-<a href="https://tiktok.com/@j0kermodz_real" target="blank"><img align="center" src="https://picsvg.com/svg/y3911i.jpg" alt="" height="400" width="100" /></a>
+<a href="https://linktr.ee/j0kermodz" target="blank"><img align="center" src="http://picsvg.com/svg/fUShKO.jpg" alt="" height="800" width="500" /></a>
+<a href="https://www.youtube.com/@J0kerModZ" target="blank"><img align="center" src="https://picsvg.com/svg/y7U9Yp.jpg" alt="" height="800" width="500" /></a>
+<a href="https://tiktok.com/@j0kermodz_real" target="blank"><img align="center" src="https://picsvg.com/svg/y3911i.jpg" alt="" height="800" width="500" /></a>
 </p>
