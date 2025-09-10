@@ -16,6 +16,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linktr.ee/j0kermodz" target="blank"><img align="center" src="https://www.diane-spencer.com/wp-content/uploads/2024/07/LinkTree-icon-black.png" alt="" height="100" width="200" /></a>
-<a href="https://www.youtube.com/@J0kerModZ" target="blank"><img align="center" src="https://picsvg.com/svg/y7U9Yp.jpg" alt="" height="100" width="100" /></a>
+<a href="https://www.youtube.com/@J0kerModZ" target="blank"><img align="center" src="https://picsvg.com/svg/y7U9Yp.jpg" alt="" height="400" width="100" /></a>
 <a href="https://tiktok.com/@j0kermodz_real" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/561/non_2x/tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" alt="" height="100" width="100" /></a>
 </p>
