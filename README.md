@@ -14,8 +14,6 @@
 </table>
 
 <h1 align="center">FIND MORE:</h1>
-<p align="center">
-<a href="https://linktr.ee/j0kermodz" target="blank"><img align="center" src="https://picsvg.com/svg/CoEIVj.jpg" alt="" height="400" width="200" /></a>
-<a href="https://www.youtube.com/@J0kerModZ" target="blank"><img align="center" src="https://picsvg.com/svg/zkelaT.jpg" alt="" height="400" width="200" /></a>
-<a href="https://tiktok.com/@j0kermodz_real" target="blank"><img align="center" src="https://picsvg.com/svg/y3911i.jpg" alt="" height="400" width="200" /></a>
-</p>
+https://linktr.ee/j0kermodz
+https://www.youtube.com/@J0kerModZ
+https://tiktok.com/@j0kermodz_real
