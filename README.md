@@ -6,8 +6,6 @@
 
 <p align="center">
   Game developer • Modder • Unity & C#  
-  <br>
-  Gorilla Tag fan projects & multiplayer systems
 </p>
 
 ---
@@ -16,21 +14,22 @@
 
 <div align="center">
 
-<a href="https://linktr.ee/j0kermodz">
-  <img src="https://img.shields.io/badge/Linktree-All%20My%20Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+<div align="center">
+
+<a href="https://linktr.ee/j0kermodz" target="_blank">
+  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
 </a>
 
-<br><br>
-
-<a href="https://www.youtube.com/@J0kerModZ">
-  <img src="https://img.shields.io/badge/YouTube-Content%20%26%20Mods-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://www.youtube.com/@J0kerModZ" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<br><br>
 
-<a href="https://tiktok.com/@j0kermodz_real">
-  <img src="https://img.shields.io/badge/TikTok-Clips%20%26%20Shorts-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<a href="https://tiktok.com/@j0kermodz_real" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
+
+</div>
 
 </div>
 
