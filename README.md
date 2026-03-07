@@ -38,7 +38,7 @@
 <h2 align="center">💻 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0kerModZ&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0kermodz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -46,5 +46,5 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J0kerModZ&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=j0kermodz&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
